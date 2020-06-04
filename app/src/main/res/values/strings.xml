@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Memo+</string>
+    <string name="about">
+        <font fgcolor="#FFFFFF">About</font>
+    </string>
+    <string name="about2"><font fgcolor="#FFFFFF">
+        Created By:  Prajjwal Chittori \n\n Gmail: prajjwalchittori1@gmail.com \n\n Facebook: https://www.facebook.com/prajjwal.chittori.7 \n\n Linkedin: https://www.linkedin.com/in/prajjwal-chittori-27aab7165
+
+
+
+    </font></string>
+</resources>
