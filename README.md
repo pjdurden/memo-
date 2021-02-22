@@ -6,7 +6,7 @@ A minimalist dark theme memo saving application for android written in kotlin.
 Application to create, save, and share short memos developed for android using SQLite written in Kotlin utilizing various libraries like Glide and GSON.
 
 # In-app Interface
-<img src=https://github.com/pjdurden/memo-/blob/master/Screenshot_20210222-093931.jpg>
+<img src="https://github.com/pjdurden/memo-/blob/master/Screenshot_20210222-093931.jpg" width="400" height="600">
 
 # Features
 * Quickly create and save short memos
@@ -45,4 +45,4 @@ Application to create, save, and share short memos developed for android using S
 
 # Memo Share interface
 
-<img src=https://github.com/pjdurden/memo-/blob/master/Screenshot_20210222-093948.jpg>
+<img src="https://github.com/pjdurden/memo-/blob/master/Screenshot_20210222-093948.jpg" width="400" height="600">
